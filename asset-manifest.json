@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SonuSingh0702/po/static/css/main.155d360d.css",
+    "main.js": "/SonuSingh0702/po/static/js/main.c6d4cc69.js",
+    "index.html": "/SonuSingh0702/po/index.html",
+    "main.155d360d.css.map": "/SonuSingh0702/po/static/css/main.155d360d.css.map",
+    "main.c6d4cc69.js.map": "/SonuSingh0702/po/static/js/main.c6d4cc69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155d360d.css",
+    "static/js/main.c6d4cc69.js"
+  ]
+}
